@@ -1,0 +1,61 @@
+[
+    {
+        "pertanyaan" : "[Dasar-dasar] Apa itu Marvel Insider?",
+        "jawaban" : "Marvel Insider adalah program penghargaan loyalitas Marvel untuk penggemar kami di lima puluh (50) Amerika Serikat dan Distrik Columbia, berusia 18 tahun ke atas. Ini adalah cara terbaik bagi penggemar Marvel untuk terhubung dengan Marvel Universe! Bergabunglah secara gratis dan dapatkan imbalan karena melakukan hal-hal yang sudah Anda lakukan sebagai penggemar Marvel. Dapatkan poin untuk terhubung dan terlibat dengan kami di media sosial, membeli komik, membaca dan menonton konten di Marvel.com dan banyak lagi! Kemudian gunakan poin Anda untuk ditukarkan dengan berbagai hadiah Marvel keren dari komik digital hingga merchandise Marvel dan banyak item di antaranya."
+    },
+
+    {
+        "pertanyaan" : "[Dasar-dasar] Apakah saya memenuhi syarat untuk Marvel Insider?",
+        "jawaban" : "Program hadiah loyalitas Marvel Insider hanya tersedia untuk penduduk AS berusia 18 tahun ke atas. Untuk daftar lengkap syarat penggunaan program, silakan kunjungi: "
+    },
+    
+    {
+        "pertanyaan" : "[Dasar-dasar] Bagaimana cara bergabung dengan Marvel Insider?",
+        "jawaban" : "Anda dapat bergabung dengan Marvel Insider dengan membuka Halaman Beranda Marvel Insider> dan mengklik MENJADI INSIDER atau dengan mengunjungi www.marvel.com dan mengklik tautan MASUK di kiri atas bilah navigasi. Pendaftaran Anda akan dikonfirmasi dengan email di alamat email yang terkait dengan akun Marvel Insider Anda. Setelah Anda mengkonfirmasi alamat email Anda, Anda dapat segera mulai mendapatkan poin."
+    },
+    
+    {
+        "pertanyaan" : "[Dasar-dasar] Bagaimana cara mendapatkan poin?",
+        "jawaban" : "Anda bisa mendapatkan poin level penggemar, poin hadiah yang dapat ditukarkan, dan poin hadiah seumur hidup (secara kolektif disebut Poin) dalam beberapa cara termasuk menonton video dan trailer terbaru, mendengarkan podcast terbaru, bermain game Marvel, mengikuti perkembangan terbaru berita terbaru dan banyak lagi! Pastikan untuk masuk ke akun Marvel Insider Anda saat mengunjungi Marvel.com dan periksa halaman Aktivitas untuk daftar aktivitas terkini yang memenuhi syarat untuk mendapatkan poin. Harap tunggu 5-10 menit agar aktivitas yang telah selesai ditandai selesai dan/atau muncul di riwayat aktivitas Anda."
+    },
+    
+    {
+        "pertanyaan" : "[Dasar-dasar] Bisakah saya mendapatkan poin untuk aktivitas Marvel Insider yang diselesaikan di browser seluler saya?",
+        "jawaban" : "<p>Anda dapat memperoleh poin untuk sebagian besar aktivitas berbasis web di perangkat seluler tetapi Anda harus menonaktifkan 'penjelajahan pribadi' di browser seluler Anda.</p><p>Ingatlah untuk memeriksa pengaturan browser seluler Anda di perangkat seluler Anda untuk memastikannya akan selalu menerima cookie di Marvel.com.</p>"
+    },
+    
+    {
+        "judul1" : "Saul Goodman",
+        "jobs1" : "Ceo & Founder",
+        "desktipsi1" : "Untuk kelompok sasaran, hasilnya layak dijaga sampai maskapai mengambil alih. Namun, para penuduh membutuhkan itu, dan membutuhkan disiplin. Beberapa pingsan, tapi selalu tersenyum.",
+        "sumber1" : "testimonials-1.jpg"
+    },
+
+    {
+        "judul1" : "Sara Wilsson",
+        "jobs1" : "Designer",
+        "desktipsi1" : "Ekspor waktu, bagaimanapun, saya adalah untuk kejahatan dari kejahatan yang saya akan marah dengan upaya bahwa saya akan menjadi orang yang saya untuk kejahatan yang keinginannya saya akan menjadi bahwa beberapa dari kita harus lari dari amarah.",
+        "sumber1" : "testimonials-2.jpg"
+    },
+    
+    {
+        "judul1" : "Jena Karlis",
+        "jobs1" : "Store Owner",
+        "desktipsi1" : "Karena jika saya tidak mengeluarkan sehelai rambut pun dari rumah Anda, yang besar, yang tidak ada seorang pun yang akan saya bawa ke rumah Anda, waktu paling sedikit adalah pekerjaan yang saya lakukan di rumah kami.",
+        "sumber1" : "testimonials-3.jpg"
+    },
+    
+    {
+        "judul1" : "Matt Brandon",
+        "jobs1" : "Freelancer",
+        "desktipsi1" : "Karena saya melarikan diri dari rasa sakit, tidak ada kesalahan dalam ekspor banyak orang.",
+        "sumber1" : "testimonials-4.jpg"
+    },
+    
+    {
+        "judul1" : "John Larson",
+        "jobs1" : "Entrepreneur",
+        "desktipsi1" : "Siapa saja di antara mereka yang akan saya baca?",
+        "sumber1" : "testimonials-5.jpg"
+    }
+]

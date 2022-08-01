@@ -1,0 +1,31 @@
+[
+    {
+        "judul" : "banner 1",
+        "deskripsi" : "merah",
+        "sumber" : "1.jpg"
+    },
+    
+    {
+        "judul" : "banner 2",
+        "deskripsi" : "hitam",
+        "sumber" : "2.jpg"
+    },
+    
+    {
+        "judul" : "banner 3",
+        "deskripsi" : "all team",
+        "sumber" : "3.jpg"
+    },
+    
+    {
+        "judul" : "banner 4",
+        "deskripsi" : "merah",
+        "sumber" : "4.jpg"
+    },
+
+    {
+        "judul" : "banner 5",
+        "deskripsi" : "hitam",
+        "sumber" : "5.jpg"
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "judul" : "Aplikasi",
+        "sumber" : "app-1.jpg"
+    },
+    
+    {
+        "judul" : "Buku Pertama",
+        "sumber" : "books-1.jpg"
+    },
+    
+    {
+        "judul" : "Merek Pertama",
+        "sumber" : "branding-1.jpg"
+    },
+    
+    {
+        "judul" : "Produk Pertama",
+        "sumber" : "product-1.jpg"
+    },
+    
+    {
+        "judul" : "Buku Kedua",
+        "sumber" : "books-2.jpg"
+    },
+    
+    {
+        "judul" : "Merek Kedua",
+        "sumber" : "branding-2.jpg"
+    },
+    
+    {
+        "judul" : "Produk Kedua",
+        "sumber" : "product-2.jpg"
+    },
+    
+    {
+        "judul" : "Buku Ketiga",
+        "sumber" : "books-3.jpg"
+    },
+    
+    {
+        "judul" : "Merek Ketiga",
+        "sumber" : "branding-3.jpg"
+    },
+    
+    {
+        "judul" : "Produk Ketiga",
+        "sumber" : "product-3.jpg"
+    },
+    
+    {
+        "judul" : "Merek Keempat",
+        "sumber" : "branding-4.jpg"
+    },
+
+    {
+        "judul" : "Produk Keempat",
+        "sumber" : "product-4.jpg"
+    }
+]
